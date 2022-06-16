@@ -3,7 +3,6 @@
  ------- TP1 Etapa 2: Prototipo -------
  Comision: Lisandro | Prof.Lisandro Peralta
  Alumna:Moreira Abril(88127/2).
- Video: https://youtu.be/YDA7djWQRe8
  */
 import oscP5.*;
 PImage fondo;
