@@ -2,7 +2,7 @@
  | TP1 | Tmm2 | FdA | UNLP |
  ------- TP1 Etapa 2: Prototipo -------
  Comision: Lisandro | Prof.Lisandro Peralta
- Alumnas:Moreira Abril(88127/2).
+ Alumna:Moreira Abril(88127/2).
  Video: https://youtu.be/YDA7djWQRe8
  */
 import oscP5.*;
