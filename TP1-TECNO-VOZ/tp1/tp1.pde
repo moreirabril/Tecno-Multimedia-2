@@ -1,6 +1,6 @@
 /*
  | TP1 | Tmm2 | FdA | UNLP |
- ------- TP1 Etapa 2: Prototipo -------
+ ------- TP1 Etapa Final -------
  Comision: Lisandro | Prof.Lisandro Peralta
  Alumna:Moreira Abril(88127/2).
  */
